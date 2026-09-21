@@ -1,2 +1,2 @@
 # Practice
-GitHub Inro
+GitHub Intro
